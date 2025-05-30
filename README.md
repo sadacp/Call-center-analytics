@@ -22,7 +22,7 @@ Analizar el rendimiento de un call center utilizando una base de datos ficticia 
 
 data/ → Datos en formato Excel.
 sql/ → Scripts SQL: creación de tablas, inserciones y consultas.
-docs/ → Documento entregable en PDF.
+Entregable_PowerBI_SQL.pdf  → Documento entregable en PDF.
 Call_Center.pbix → Reporte en Power BI.
 README.md → Descripción general del proyecto.
 
